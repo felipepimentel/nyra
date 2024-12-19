@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="90" cy="90" r="85" fill="#4C6EF5" fill-opacity="0.1"/>
+  
+  <!-- Brain Icon -->
+  <path d="M90 40C65.1472 40 45 60.1472 45 85C45 109.853 65.1472 130 90 130C114.853 130 135 109.853 135 85C135 60.1472 114.853 40 90 40ZM90 45C112.091 45 130 62.9086 130 85C130 107.091 112.091 125 90 125C67.9086 125 50 107.091 50 85C50 62.9086 67.9086 45 90 45Z" fill="#4C6EF5"/>
+  
+  <!-- Neural Network Lines -->
+  <path d="M70 85C70 74.5066 78.5066 66 89 66V66C99.4934 66 108 74.5066 108 85V85C108 95.4934 99.4934 104 89 104V104C78.5066 104 70 95.4934 70 85V85Z" stroke="#4C6EF5" stroke-width="2"/>
+  <path d="M89 66C99.4934 66 108 74.5066 108 85C108 95.4934 99.4934 104 89 104" stroke="#4C6EF5" stroke-width="2"/>
+  <path d="M89 66V104" stroke="#4C6EF5" stroke-width="2"/>
+  
+  <!-- Connection Points -->
+  <circle cx="89" cy="66" r="3" fill="#4C6EF5"/>
+  <circle cx="108" cy="85" r="3" fill="#4C6EF5"/>
+  <circle cx="89" cy="104" r="3" fill="#4C6EF5"/>
+  <circle cx="70" cy="85" r="3" fill="#4C6EF5"/>
+  
+  <!-- Text -->
+  <text x="90" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" font-weight="600" fill="#4C6EF5">NYRA</text>
+</svg> 
